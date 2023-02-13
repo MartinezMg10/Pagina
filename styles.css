@@ -1,0 +1,45 @@
+body{
+    background-color: gray;
+}
+
+#carrusel img{
+    width: 680px;
+    height: 480px;
+}
+
+header img{
+    width: 50px;
+}
+
+hr{
+    border: 2px solid black;
+}
+
+.acordeon img{
+    width: 400px;
+    float: left;
+}
+
+.acordeon{
+    border: 1px solid;
+    display: flex;
+    height: 500px;
+    background-color: rgb(79, 76, 76);
+}
+
+.contenedor-tarjetas{
+    height: 500px;
+    display: flex;
+    border: 1px solid;
+}
+
+.contenedor-tarjetas img{
+    padding: 10px;
+    height: 180px;
+    width: 250px;
+}
+
+.contenedor-form{
+    height: 500px;
+    border: 1px solid;
+}
