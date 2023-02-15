@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2? family= Kanit:wght@400;700 & display=swap');
+
 body{
     background-color: gray;
+    font-family: 'Kanit', sans-serif;
 }
 
-#carrusel img{
-    width: 680px;
-    height: 480px;
+a{
+    text-decoration: none;
 }
 
 header img{
@@ -15,31 +17,6 @@ hr{
     border: 2px solid black;
 }
 
-.acordeon img{
-    width: 400px;
-    float: left;
-}
-
-.acordeon{
-    border: 1px solid;
-    display: flex;
-    height: 500px;
-    background-color: rgb(79, 76, 76);
-}
-
-.contenedor-tarjetas{
-    height: 500px;
-    display: flex;
-    border: 1px solid;
-}
-
-.contenedor-tarjetas img{
-    padding: 10px;
-    height: 180px;
-    width: 250px;
-}
-
-.contenedor-form{
-    height: 500px;
-    border: 1px solid;
+#tarjetas img{
+    height: 150px;
 }
