@@ -1,20 +1,27 @@
-@import url('https://fonts.googleapis.com/css2? family= Kanit:wght@400;700 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
+
 
 body{
-    background-color: gray;
-    font-family: 'Kanit', sans-serif;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/990/956/27/retro-games-neon-hd-wallpaper-preview.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Comfortaa', cursive;
 }
 
 a{
     text-decoration: none;
+    opacity: 1;
 }
+
 
 header img{
     width: 50px;
 }
 
 hr{
-    border: 2px solid black;
+    border: 2px solid rgb(255, 255, 255); height: 2px; background-color: rgb(255, 255, 255);
+    opacity: 0.75;
 }
 
 #tarjetas img{
